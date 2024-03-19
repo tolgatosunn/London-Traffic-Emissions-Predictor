@@ -10,7 +10,9 @@ This project aims to predict CO2 emissions in London by analyzing traffic data. 
 - Traffic Data: 2013 Vehicle-Kilometers (VKM) data for London.
 - Emissions Data: CO2 emissions data from 'LAEI2013_MajorRoads_EmissionsbyLink_2013.xlsx'.
 
-Both datasets are publicly available on the London Datastore.
+Both datasets are publicly available on the London Datastore, which is accessible via the link below.
+
+https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory-2013
 
 ## Installation
 
